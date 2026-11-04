@@ -1,0 +1,7 @@
+,skew,excess_kurtosis,outliers_abs_z_above_3,outliers_beyond_1_5_IQR
+mean_weekly_return,0.877,3.014,6.0,15.0
+weekly_beta,1.108,4.511,2.0,10.0
+R_days,3.634,20.746,11.0,118.0
+F_days,0.428,0.548,5.0,2.0
+M_usd,11.636,153.588,5.0,45.0
+log1p_M,1.073,2.639,7.0,13.0

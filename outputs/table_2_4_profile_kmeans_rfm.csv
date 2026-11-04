@@ -1,0 +1,5 @@
+kmeans_rfm,shares,mean weekly return %,median weekly return %,mean beta,median beta,mean R days,median R days,mean F days,median M USD bn,mean r squared
+1,61,0.3,0.253,0.975,1.051,66.016,55.0,1.672,21.242,0.261
+2,212,0.275,0.259,0.939,0.931,13.264,11.0,2.368,13.336,0.287
+3,91,0.341,0.295,1.064,1.048,15.143,11.0,3.231,60.183,0.286
+4,121,0.261,0.254,0.959,0.919,13.835,11.0,4.545,12.786,0.272

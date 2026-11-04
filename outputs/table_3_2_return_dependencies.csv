@@ -1,0 +1,8 @@
+group,shares,mean pairwise correlation
+all shares,485.0,0.3
+risk and return cluster 1,66.0,0.312
+risk and return cluster 2,98.0,0.325
+risk and return cluster 3,182.0,0.367
+risk and return cluster 4,92.0,0.374
+risk and return cluster 5,47.0,0.439
+pairs in different clusters,,0.281

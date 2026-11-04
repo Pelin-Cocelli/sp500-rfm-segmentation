@@ -1,0 +1,5 @@
+ward_rfm,shares,mean weekly return %,median weekly return %,mean beta,median beta,mean R days,median R days,mean F days,median M USD bn,mean r squared
+1,82,0.286,0.244,1.009,1.047,58.305,54.5,2.098,17.849,0.255
+2,154,0.338,0.325,1.01,0.989,13.682,11.0,2.864,39.695,0.288
+3,207,0.247,0.244,0.926,0.924,11.14,11.0,2.942,10.785,0.283
+4,42,0.294,0.28,0.989,1.004,16.595,11.0,5.381,14.412,0.279

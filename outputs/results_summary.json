@@ -1,0 +1,63 @@
+{
+  "study_start": "2021-01-01",
+  "study_end_exclusive": "2025-01-01",
+  "first_trading_day": "2021-01-04",
+  "last_trading_day": "2024-12-31",
+  "observation_date": "2024-12-31",
+  "trading_days": 1005,
+  "constituents": 503,
+  "included_shares": 485,
+  "excluded_shares": 18,
+  "inclusion_rule": "full coverage of the study period with no missing, duplicate or invalid values",
+  "constituents_retrieved_utc": "2026-11-04T11:36:42+00:00",
+  "prices_downloaded_utc": "2026-11-04T11:38:21+00:00",
+  "aligned_weekly_return_observations": 207,
+  "first_return_week": "2021-01-15",
+  "last_return_week": "2024-12-27",
+  "rfm_window_start": "2024-10-07",
+  "rfm_window_end": "2024-12-31",
+  "shares_with_features": 485,
+  "common_share_set": 485,
+  "shares_without_high_volume_event": 0,
+  "average_beta": 0.972,
+  "selected_k": {
+    "ward_rr": 5,
+    "kmeans_rr": 5,
+    "ward_rfm": 4,
+    "kmeans_rfm": 4
+  },
+  "silhouette_selected": {
+    "ward_rr": 0.3042,
+    "kmeans_rr": 0.3396,
+    "ward_rfm": 0.2885,
+    "kmeans_rfm": 0.3405
+  },
+  "ari_ward_vs_kmeans_rr": 0.3201,
+  "ari_ward_vs_kmeans_rfm": 0.3425,
+  "ari_monetary_removal": 0.2035,
+  "ari_rr_vs_rfm": 0.0393,
+  "pca_explained_variance": [
+    0.4584,
+    0.3367
+  ],
+  "pearson_correlations": {
+    "R": {
+      "R": 1.0,
+      "F": -0.348,
+      "log1p M": 0.153
+    },
+    "F": {
+      "R": -0.348,
+      "F": 1.0,
+      "log1p M": 0.014
+    },
+    "log1p M": {
+      "R": 0.153,
+      "F": 0.014,
+      "log1p M": 1.0
+    }
+  },
+  "mean_pairwise_return_correlation": 0.2998,
+  "random_seed": 42,
+  "kmeans_n_init": 50
+}

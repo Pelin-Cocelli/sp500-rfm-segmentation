@@ -1,0 +1,4 @@
+Date,close,volume,prev20_mean,threshold_2x,ratio_to_threshold,high_volume_day,note
+2024-11-25,232.87,90152800.0,43820740.0,87641480.0,1.03,True,qualifying day in window
+2024-12-20,254.49,147495300.0,45004605.0,90009210.0,1.64,True,qualifying day in window
+2024-10-31,225.91,64370100.0,38510015.0,77020030.0,0.84,False,closest non qualifying day

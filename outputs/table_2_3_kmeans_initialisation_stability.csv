@@ -1,0 +1,5 @@
+matrix,k,n_init,mean ARI vs reference,min ARI
+risk and return,5,1,0.6019,0.3277
+risk and return,5,50,0.9579,0.9024
+RFM,4,1,0.7838,0.346
+RFM,4,50,0.9994,0.9939
