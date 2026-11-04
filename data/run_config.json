@@ -1,0 +1,14 @@
+{
+  "study_start": "2021-01-01",
+  "study_end_exclusive": "2025-01-01",
+  "first_trading_day": "2021-01-04",
+  "last_trading_day": "2024-12-31",
+  "observation_date": "2024-12-31",
+  "trading_days": 1005,
+  "constituents": 503,
+  "included_shares": 485,
+  "excluded_shares": 18,
+  "inclusion_rule": "full coverage of the study period with no missing, duplicate or invalid values",
+  "constituents_retrieved_utc": "2026-11-04T11:36:42+00:00",
+  "prices_downloaded_utc": "2026-11-04T11:38:21+00:00"
+}
